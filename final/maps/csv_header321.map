@@ -1,0 +1,7 @@
+{
+    "first name" :  "PersonalName",
+    "last name" :    "PersonalName",
+    "email" :  "Email",
+    "company" : "OrgName",
+    "title" :  "JobTitle"
+}

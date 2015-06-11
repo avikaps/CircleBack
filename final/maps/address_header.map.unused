@@ -1,0 +1,6 @@
+{ "Mailing Street" : "address1",
+    "Mailing City" : "city",
+    "Mailing State" : "state",
+    "Mailing Zip" : "zip",
+    "Country" : "country"
+}
